@@ -5,10 +5,15 @@ Este script automatiza o monitoramento de conectividade utilizando o **MTR (My T
 
 ## ⚙️ Funcionalidades
 ✅ Coleta estatísticas detalhadas da rota até o destino.
+
 ✅ Identifica latências e perdas de pacotes em cada salto.
+
 ✅ Gera logs automáticos para análise posterior.
+
 ✅ Executa testes continuamente a cada 15 segundos.
+
 ✅ Fácil de implementar e rodar em servidores Linux.
+
 
 ## 🚀 Instalação e Uso
 ### 1️⃣ **Instalar o MTR**
