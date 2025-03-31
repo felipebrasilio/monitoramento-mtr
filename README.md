@@ -1,7 +1,7 @@
 # 📡 MTR Monitor - Monitoramento Contínuo de Rede com Bash
 
 ## 📌 Sobre o Projeto
-Este script automatiza o monitoramento de conectividade utilizando o **MTR (My Traceroute)**. Ele executa testes contínuos a cada 15 segundos, analisando todos os saltos até o destino e registrando os resultados em um arquivo de log. 🔍📊
+Este script automatiza o monitoramento de conectividade utilizando o **MTR (My Traceroute)**. Ele executa testes contínuos a cada 30 segundos, analisando todos os saltos até o destino e registrando os resultados em um arquivo de log. 🔍📊
 
 ## ⚙️ Funcionalidades
 ✅ Coleta estatísticas detalhadas da rota até o destino.
